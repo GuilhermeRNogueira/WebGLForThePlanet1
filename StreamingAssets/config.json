@@ -31,7 +31,7 @@
                     {
                         "name": "Blue Player",
                         "fatimaRpcPath": "NONE",
-                        "playerType": "AI-OUTCOME-BASE",
+                        "playerType": "AI-SELFISH",
                         "interactionType": "NONE"
                     }
                 ],
